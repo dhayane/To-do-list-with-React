@@ -1,0 +1,19 @@
+.main {
+  background: #61331a;
+  padding: 30px;
+  margin: 50px auto;
+  max-width: 640px;
+  border-radius: 2px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  color: rgb(160, 160, 160);
+  font-weight:600;
+
+}
+
+.main h1 {
+  font-size: 20px;
+  text-align: center;
+  color: wheat;
+  font-weight: 800;
+}
+
