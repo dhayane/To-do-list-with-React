@@ -17,6 +17,12 @@ This is a simple To-Do List project built with React and JavaScript using class-
 - HTML and CSS
 - Local Storage
 
+## Project Visualization
+
+You can view the application live on GitHub Pages:
+
+[To-do List - GitHub Pages](https://dhayane.github.io/To-do-list-with-React/)
+
 ## Project structure
 
 - `Main.js`: main component that holds the application state and logic
